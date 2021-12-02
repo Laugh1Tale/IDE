@@ -19,11 +19,11 @@ block_size = 10, grayscale = 50
 
 ![Getting Started](images/old_filter_profile.jpg)
 
-## filter profile: ##
+## filter: ##
 
 ![Getting Started](images/filter_profile.jpg)
 
-## filter with filename profile: ##
+## filter with filename: ##
 
 ![Getting Started](images/filter_with_filename_profile.jpg)
 
